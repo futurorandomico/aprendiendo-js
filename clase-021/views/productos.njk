@@ -1,0 +1,56 @@
+{% extends "partials/template.njk" %}
+
+{% set title = "Productos" %}
+
+{% block main %}
+  <p><a href="/html">&lt; Home</a> | Productos</p>
+  <table border="2">
+    {% for producto in productos %}
+      <tr>
+        <td>{{ producto.nombre }}</td>
+        <td>$ {{ producto.valor }}</td>
+      </tr>
+    {% else %}
+      <tr>
+        <td>No hay productos</td>
+      </tr>
+    {% endfor %}
+  </table>
+  <br/>
+  {% if mercadoPago %}
+  Aceptamos Mercado Pago ✅
+  {% else %}
+  Solo pago efectivo
+  {% endif %}
+  <br/>
+  <button class="button" onclick="return buttonClickAPIProductos()" >Un boton a la API productos</button>
+  <button class="button" onclick="return buttonClickAPIAutos()" >Un boton a la API autos</button>
+  <script>
+    var username = 'admin'
+    var password = 'supersecret'
+
+    function buttonClickAPIProductos(e) {
+      let xhr = new XMLHttpRequest();
+      xhr.open('GET', 'http://localtest.me:8080/html/api/productos');
+      xhr.setRequestHeader('Authorization', 'Basic ' + btoa(username + ':' + password));
+      xhr.responseType = 'json';
+      xhr.send();
+      xhr.onload = function() {
+        let responseObj = xhr.response;
+        console.log(responseObj)
+      };
+    }
+
+    function buttonClickAPIAutos(e) {
+      let xhr = new XMLHttpRequest();
+      xhr.open('POST', 'http://localtest.me:8080/html/api/autos');
+      xhr.responseType = 'json';
+      xhr.setRequestHeader('Content-Type', 'application/json');
+      xhr.send(JSON.stringify({ data: 'autos' }));
+      xhr.onload = function() {
+        let responseObj = xhr.response;
+        console.log(responseObj)
+      };
+    }
+  </script>
+{% endblock %}

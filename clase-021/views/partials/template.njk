@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  {% include "partials/head.njk" %}
+  {% include "partials/styles.njk" %}
+  {% block head %}
+  {% endblock %}
+</head>
+<body>
+  <div id="main">
+    {% block main %}
+      <p>Default Page</p>
+    {% endblock %}
+  </div>
+</body>
+</html>
