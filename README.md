@@ -302,11 +302,33 @@ https://www.youtube.com/watch?v=NewyquCceIc
 
 ---
 
-### MongoDB  - API REST completa #2 en Express.js 
+### MongoDB - API REST completa #2 en Express.js
 
-- [ ] update
-- [ ] delete
-- [ ] Queries complejas
+[![MongoDB - API REST completa #2 en Express.js - Aprendiendo.js - Clase 21](https://img.youtube.com/vi/8mfFJlgmgbg/mqdefault.jpg)](https://www.youtube.com/watch?v=8mfFJlgmgbg)
+https://www.youtube.com/watch?v=8mfFJlgmgbg
+
+- [x] update
+- [x] delete
+- [x] Express params
+
+---
+
+### MongoDB - API REST completa #3 en Express.js
+
+[![MongoDB - API REST completa #3 en Express.js - Aprendiendo.js - Clase 22](https://img.youtube.com/vi/Pmmsu3CspiM/mqdefault.jpg)](https://www.youtube.com/watch?v=Pmmsu3CspiM)
+https://www.youtube.com/watch?v=Pmmsu3CspiM
+
+- [x] Inserción de datos en un array
+- [x] Queries complejas
+
+---
+
+### MongoDB - API en Express.js + MongoDB + JWT
+
+[![MongoDB - API en Express.js + MongoDB + JWT - Aprendiendo.js - Clase 23](https://img.youtube.com/vi/4Pbr7ebB2Zs/mqdefault.jpg)](https://www.youtube.com/watch?v=4Pbr7ebB2Zs)
+https://www.youtube.com/watch?v=4Pbr7ebB2Zs
+
+- [ ] JWT middleware con MongoDB
 
 &nbsp;
 &nbsp;

@@ -1,0 +1,21 @@
+{
+  "name": "clase-014",
+  "version": "0.0.2",
+  "description": "Bunkero 0.0.2",
+  "main": "index.js",
+  "author": "@futurorandomico y @retux",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.17.1",
+    "express-basic-auth": "1.2.0",
+    "got": "11.5.2",
+    "jsonwebtoken": "8.5.1",
+    "mongoose": "5.10.5",
+    "nunjucks": "3.2.2",
+    "socket.io": "2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.4"
+  }
+}
