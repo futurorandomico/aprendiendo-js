@@ -328,7 +328,7 @@ https://www.youtube.com/watch?v=Pmmsu3CspiM
 [![MongoDB - API en Express.js + MongoDB + JWT - Aprendiendo.js - Clase 23](https://img.youtube.com/vi/4Pbr7ebB2Zs/mqdefault.jpg)](https://www.youtube.com/watch?v=4Pbr7ebB2Zs)
 https://www.youtube.com/watch?v=4Pbr7ebB2Zs
 
-- [ ] JWT middleware con MongoDB
+- [x] JWT middleware con MongoDB
 
 &nbsp;
 &nbsp;
