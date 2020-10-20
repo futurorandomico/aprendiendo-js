@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "main": "index.js",
   "author": "@futurorandomico y @retux",
-  "license": "ISC",
+  "license": "CC0-1.0",
   "dependencies": {
-    "ioredis": "^4.17.3"
+    "ioredis": "4.17.3"
   },
   "devDependencies": {
     "nodemon": "2.0.4"

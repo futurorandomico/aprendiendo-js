@@ -1,6 +1,6 @@
 {
   "name": "aprendiendo.js",
-  "version": "1.0.0",
+  "version": "1.0",
   "description": "Este es el repositorio central de Aprendiendo.js, curso online gratuito de Node.js, disponible en YouTube: https://www.youtube.com/channel/UCZYvniRWZdC_YeIL9fxwlsg",
   "main": "index.js",
   "repository": {
@@ -8,12 +8,16 @@
     "url": "git+https://github.com/futurorandomico/aprendiendo-js.git"
   },
   "keywords": [
-    "aprendiendo",
+    "javascript",
+    "node",
     "js",
     "nodejs",
+    "aprendiendo",
+    "educacion",
     "curso",
     "online",
     "gratuito",
+    "gratuita",
     "aprender",
     "free",
     "online",

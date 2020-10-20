@@ -1,11 +1,11 @@
 {
   "name": "clase-012",
-  "version": "1.0.0",
+  "version": "1.0",
   "description": "",
   "main": "index.js",
-  "author": "",
-  "license": "ISC",
+  "author": "@futurorandomico y @retux",
+  "license": "CC0-1.0",
   "dependencies": {
-    "got": "^11.5.1"
+    "got": "11.5.1"
   }
 }

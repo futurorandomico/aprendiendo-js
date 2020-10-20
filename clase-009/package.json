@@ -1,10 +1,10 @@
 {
   "name": "clase-009",
-  "version": "1.0.0",
+  "version": "1.0",
   "description": "",
   "main": "librerias-node.js",
-  "author": "",
-  "license": "ISC",
+  "author": "@futurorandomico y @retux",
+  "license": "CC0-1.0",
   "dependencies": {
     "sharp": "0.25.4"
   },

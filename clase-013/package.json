@@ -1,14 +1,14 @@
 {
   "name": "clase-013",
-  "version": "1.0.0",
+  "version": "1.0",
   "description": "Bunkero 0.0.1",
   "main": "index.js",
   "author": "@futurorandomico y @retux",
-  "license": "ISC",
+  "license": "CC0-1.0",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "4.17.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "2.0.4"
   }
 }
