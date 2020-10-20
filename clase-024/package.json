@@ -1,0 +1,13 @@
+{
+  "name": "clase-024",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "@futurorandomico y @retux",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.4"
+  }
+}
