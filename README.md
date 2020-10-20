@@ -330,6 +330,31 @@ https://www.youtube.com/watch?v=4Pbr7ebB2Zs
 
 - [x] JWT middleware con MongoDB
 
+---
+
+### Bases de datos - Redis
+
+[![Redis desde Node.js - Aprendiendo.js - Clase 24](https://img.youtube.com/vi/0o81tybXiiA/mqdefault.jpg)](https://www.youtube.com/watch?v=0o81tybXiiA)
+https://www.youtube.com/watch?v=0o81tybXiiA
+
+- [x] Redis: instalación, comandos, sentinels, clusters, módulos
+- [x] redis, ioredis
+- [x] get, set, pub/sub (publisher/subscriber)
+
+---
+
+### Regular Expressions
+
+- [ ] `RegExp`
+
+---
+
+### APIs - Funcionamiento en producción - Linux
+
+- [ ] Linux bare
+- [ ] nginx
+- [ ] systemd
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -337,18 +362,12 @@ https://www.youtube.com/watch?v=4Pbr7ebB2Zs
 
 ## Temas futuros
 
-### APIs - Funcionamiento en producción - Linux
-
-- [ ] nginx
-- [ ] Linux bare
-
 ---
 
-### APIs - Funcionamiento en producción - Docker + Kubernetes
+### APIs - Funcionamiento en producción - Docker
 
 - [ ] Docker
     - [ ] Dockerfile
-- [ ] Kubernetes
 
 ---
 
@@ -367,12 +386,6 @@ https://www.youtube.com/watch?v=4Pbr7ebB2Zs
 ### APIs - Funcionamiento en producción - Cloud - Firebase
 
 - [ ] Firebase
-
----
-
-### Bases de datos - Redis
-
-- [ ] Redis
 
 ---
 
@@ -404,12 +417,6 @@ https://www.youtube.com/watch?v=4Pbr7ebB2Zs
 ### Comunicación entre procesos / Tareas - Cote
 
 - [ ] cotê
-
----
-
-### Regular Expressions
-
-- [ ] `RegExp`
 
 ---
 
