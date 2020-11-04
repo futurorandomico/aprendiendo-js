@@ -345,86 +345,56 @@ https://www.youtube.com/watch?v=0o81tybXiiA
 
 ### Regular Expressions
 
-- [ ] `RegExp`
+[![Regular Expressions - Aprendiendo.js - Clase 25](https://img.youtube.com/vi/0MKT0SKFIZ8/mqdefault.jpg)](https://www.youtube.com/watch?v=0MKT0SKFIZ8)
+https://www.youtube.com/watch?v=0MKT0SKFIZ8
+
+- [x] `RegExp`
 
 ---
 
-### APIs - Funcionamiento en producción - Linux
+## Temas para explorar en el futuro
+
+---
+
+### APIs - Funcionamiento en producción
 
 - [ ] Linux bare
 - [ ] nginx
 - [ ] systemd
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-## Temas futuros
-
----
-
-### APIs - Funcionamiento en producción - Docker
-
 - [ ] Docker
     - [ ] Dockerfile
-
----
-
-### APIs - Funcionamiento en producción - Cloud - Pipedream
-
 - [ ] Pipedream
-
----
-
-### APIs - Funcionamiento en producción - Cloud - Vercel
-
 - [ ] Vercel
-
----
-
-### APIs - Funcionamiento en producción - Cloud - Firebase
-
 - [ ] Firebase
 
 ---
 
-### Bases de datos - PostgreSQL
+### APIs - Otros frameworks
+
+- [ ] Adonis.js
+- [ ] Hapi.js
+- [ ] Nest.js
+
+---
+
+### Bases de datos
 
 - [ ] PostgreSQL
-
----
-
-### Bases de datos - BigQuery + Data Studio
-
 - [ ] BigQuery
-- [ ] Data Studio
+  - [ ] Data Studio
 
 ---
 
-### Comunicación entre procesos / Tareas - Bull
+### Comunicación entre procesos / Tareas
 
 - [ ] bull
-
----
-
-### Comunicación entre procesos / Tareas - Moleculer
-
 - [ ] moleculer
-
----
-
-### Comunicación entre procesos / Tareas - Cote
-
 - [ ] cotê
 
 ---
 
-### Temas para incluir en el calendario
+### Temas varios
 
-- [ ] APIs web frameworks: Adonis.js
-- [ ] APIs web frameworks: Hapi.js
-- [ ] APIs web frameworks: Nest.js
 - [ ] Adminbro + Nest.js
 - [ ] Autocode
 - [ ] Puppeteer
@@ -432,7 +402,5 @@ https://www.youtube.com/watch?v=0o81tybXiiA
 - [ ] Google spreadsheets
 
 ---
-
-Y mucho mas por venir...
 
 [logo]: https://github.com/futurorandomico/aprendiendo-js/blob/master/resources/header.jpg?raw=true "Logo"
