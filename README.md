@@ -13,6 +13,7 @@ Si tenés una duda, sugerencia o comentario, podés dejar buscarme en Twitter co
 ### Empezando con Node.js (Clase 1)
 
 [![Introducción a Node.js - Aprendiendo.js - Clase 1](https://img.youtube.com/vi/uTsIyuUHsmI/mqdefault.jpg)](https://www.youtube.com/watch?v=uTsIyuUHsmI)
+
 https://www.youtube.com/watch?v=uTsIyuUHsmI
 
 - [x] Instalación
@@ -37,6 +38,7 @@ https://www.youtube.com/watch?v=uTsIyuUHsmI
 ### Estructuras básicas (Clase 2)
 
 [![Estructuras básicas en Node.js - Aprendiendo.js - Clase 2](https://img.youtube.com/vi/1UiguL677Kw/mqdefault.jpg)](https://www.youtube.com/watch?v=1UiguL677Kw)
+
 https://www.youtube.com/watch?v=1UiguL677Kw
 
 - [x] Declarando variables
@@ -74,6 +76,7 @@ https://www.youtube.com/watch?v=1UiguL677Kw
 ### Estructuras básicas - Parte 2 (Clase 3)
 
 [![Estructuras básicas en Node.js - Pt 2 - Aprendiendo.js - Clase 3](https://img.youtube.com/vi/lvXh1I9LAsE/mqdefault.jpg)](https://www.youtube.com/watch?v=lvXh1I9LAsE)
+
 https://www.youtube.com/watch?v=lvXh1I9LAsE
 
 - [x] `if`
@@ -91,6 +94,7 @@ https://www.youtube.com/watch?v=lvXh1I9LAsE
 ### Estructuras básicas - Parte 3 (Clase 4)
 
 [![Estructuras básicas en Node.js - Pt 3 - Aprendiendo.js - Clase 4](https://img.youtube.com/vi/LBgkvbPawHk/mqdefault.jpg)](https://www.youtube.com/watch?v=LBgkvbPawHk)
+
 https://www.youtube.com/watch?v=LBgkvbPawHk
 
 - [x] `for` / `while` / `do... while`
@@ -109,6 +113,7 @@ https://www.youtube.com/watch?v=LBgkvbPawHk
 ### Viviendo asincrónico - Callbacks (Clase 5)
 
 [![Viviendo asincrónico - Callbacks en Node.js - Aprendiendo.js - Clase 5](https://img.youtube.com/vi/hnEv07gPy8A/mqdefault.jpg)](https://www.youtube.com/watch?v=hnEv07gPy8A)
+
 https://www.youtube.com/watch?v=hnEv07gPy8A
 
 - [x] Callbacks
@@ -119,6 +124,7 @@ https://www.youtube.com/watch?v=hnEv07gPy8A
 ### Viviendo asincrónico - Promesas (Clase 6)
 
 [![Viviendo asincrónico - Promises en Node.js - Aprendiendo.js - Clase 6](https://img.youtube.com/vi/oLGCdRkIccA/mqdefault.jpg)](https://www.youtube.com/watch?v=oLGCdRkIccA)
+
 https://www.youtube.com/watch?v=oLGCdRkIccA
 
 - [x] Promises
@@ -128,6 +134,7 @@ https://www.youtube.com/watch?v=oLGCdRkIccA
 ### Viviendo asincrónico - Promesas (Clase 7)
 
 [![Viviendo asincrónico - Promises Reloaded - Aprendiendo.js - Clase 7](https://img.youtube.com/vi/aiJN0PknqCI/mqdefault.jpg)](https://www.youtube.com/watch?v=aiJN0PknqCI)
+
 https://www.youtube.com/watch?v=aiJN0PknqCI
 
 - [x] Promises Reloaded
@@ -139,6 +146,7 @@ https://www.youtube.com/watch?v=aiJN0PknqCI
 ### Viviendo asincrónico - Promesas (Clase 8)
 
 [![Viviendo asincrónico - async/await - Aprendiendo.js - Clase 8](https://img.youtube.com/vi/ZhyQXRac5pM/mqdefault.jpg)](https://www.youtube.com/watch?v=ZhyQXRac5pM)
+
 https://www.youtube.com/watch?v=ZhyQXRac5pM
 
 - [x] `async` / `await`
@@ -149,6 +157,7 @@ https://www.youtube.com/watch?v=ZhyQXRac5pM
 ### Librerías (Clase 9)
 
 [![Librerías - Aprendiendo.js - Clase 9](https://img.youtube.com/vi/aDbJlvMQ2Wk/mqdefault.jpg)](https://www.youtube.com/watch?v=aDbJlvMQ2Wk)
+
 https://www.youtube.com/watch?v=aDbJlvMQ2Wk
 
 - [x] Utilización de librerías de Node.js
@@ -166,6 +175,7 @@ https://www.youtube.com/watch?v=aDbJlvMQ2Wk
 ### Programación orientada a objetos (POO, o tambíen OOP en inglés) (Clase 10)
 
 [![Librerías - Aprendiendo.js - Clase 10](https://img.youtube.com/vi/eBw39UrVz5c/mqdefault.jpg)](https://www.youtube.com/watch?v=eBw39UrVz5c)
+
 https://www.youtube.com/watch?v=eBw39UrVz5c
 
 - [x] Principios de OOP
@@ -192,6 +202,7 @@ https://www.youtube.com/watch?v=eBw39UrVz5c
 ### Clase de Repaso (Clase 11)
 
 [![Clase de Repaso - Aprendiendo.js - Clase 11](https://img.youtube.com/vi/irgv6848sUA/mqdefault.jpg)](https://www.youtube.com/watch?v=irgv6848sUA)
+
 https://www.youtube.com/watch?v=irgv6848sUA
 
 ---
@@ -199,6 +210,7 @@ https://www.youtube.com/watch?v=irgv6848sUA
 ### APIs - Utilizando got para conectarnos (Clase 12)
 
 [![APIs - Utilizando got para conectarnos - Aprendiendo.js - Clase 12](https://img.youtube.com/vi/orzzFNv_VXc/mqdefault.jpg)](https://www.youtube.com/watch?v=orzzFNv_VXc)
+
 https://www.youtube.com/watch?v=orzzFNv_VXc
 
 - [x] HTTP / GET / POST / PUT / DELETE
@@ -211,6 +223,7 @@ https://www.youtube.com/watch?v=orzzFNv_VXc
 ### APIs - Creando una API con Express (Clase 13)
 
 [![APIs - Creando un servidor con Express - Aprendiendo.js - Clase 13](https://img.youtube.com/vi/JFExYe7-qtI/mqdefault.jpg)](https://www.youtube.com/watch?v=JFExYe7-qtI)
+
 https://www.youtube.com/watch?v=JFExYe7-qtI
 
 - [x] Server inicial
@@ -222,6 +235,7 @@ https://www.youtube.com/watch?v=JFExYe7-qtI
 ### APIs - Ordenando nuestras rutas con Express (Clase 14)
 
 [![APIs - Ordenando nuestras rutas con Express - Aprendiendo.js - Clase 14](https://img.youtube.com/vi/Y9LP63N1beE/mqdefault.jpg)](https://www.youtube.com/watch?v=Y9LP63N1beE)
+
 https://www.youtube.com/watch?v=Y9LP63N1beE
 
 - [x] Ordenando el código
@@ -233,6 +247,7 @@ https://www.youtube.com/watch?v=Y9LP63N1beE
 ### APIs - HTML Templates en Express (Clase 15)
 
 [![APIs - HTML Templates en Express - Aprendiendo.js - Clase 15](https://img.youtube.com/vi/wB4EpUT3mgw/mqdefault.jpg)](https://www.youtube.com/watch?v=wB4EpUT3mgw)
+
 https://www.youtube.com/watch?v=wB4EpUT3mgw
 
 - [x] HTML Templates
@@ -242,6 +257,7 @@ https://www.youtube.com/watch?v=wB4EpUT3mgw
 ### APIs - Subir archivos en Express (Clase 16)
 
 [![APIs - Subir archivos en Express - Aprendiendo.js - Clase 16](https://img.youtube.com/vi/vHlcdO687LU/mqdefault.jpg)](https://www.youtube.com/watch?v=vHlcdO687LU)
+
 https://www.youtube.com/watch?v=vHlcdO687LU
 
 - [x] Subir archivos
@@ -252,6 +268,7 @@ https://www.youtube.com/watch?v=vHlcdO687LU
 ### APIs - Autenticación en Express (Clase 17)
 
 [![APIs - Autenticación en Express - Aprendiendo.js - Clase 17](https://img.youtube.com/vi/Sv8kYijVKU0/mqdefault.jpg)](https://www.youtube.com/watch?v=Sv8kYijVKU0)
+
 https://www.youtube.com/watch?v=Sv8kYijVKU0
 
 - [x] CORS
@@ -265,6 +282,7 @@ https://www.youtube.com/watch?v=Sv8kYijVKU0
 ### APIs - Websockets (Socket.io) en Node.js (Clase 18)
 
 [![APIs - Websockets (Socket.io) en Node.js - Aprendiendo.js - Clase 18](https://img.youtube.com/vi/HsnIk4IOtXw/mqdefault.jpg)](https://www.youtube.com/watch?v=HsnIk4IOtXw)
+
 https://www.youtube.com/watch?v=HsnIk4IOtXw
 
 - [x] EventEmitter
@@ -275,6 +293,7 @@ https://www.youtube.com/watch?v=HsnIk4IOtXw
 ### MongoDB - Primeros pasos con Node.js 
 
 [![MongoDB - Primeros pasos con Node.js - Aprendiendo.js - Clase 19](https://img.youtube.com/vi/U1uI2jV8zZA/mqdefault.jpg)](https://www.youtube.com/watch?v=U1uI2jV8zZA)
+
 https://www.youtube.com/watch?v=U1uI2jV8zZA
 
 - [x] MongoDB / mongoose
@@ -287,6 +306,7 @@ https://www.youtube.com/watch?v=U1uI2jV8zZA
 ### MongoDB - API REST completa #1 en Express.js 
 
 [![MongoDB - API REST completa #1 en Express.js - Aprendiendo.js - Clase 20](https://img.youtube.com/vi/NewyquCceIc/mqdefault.jpg)](https://www.youtube.com/watch?v=NewyquCceIc)
+
 https://www.youtube.com/watch?v=NewyquCceIc
 
 - [x] Validaciones
@@ -305,6 +325,7 @@ https://www.youtube.com/watch?v=NewyquCceIc
 ### MongoDB - API REST completa #2 en Express.js
 
 [![MongoDB - API REST completa #2 en Express.js - Aprendiendo.js - Clase 21](https://img.youtube.com/vi/8mfFJlgmgbg/mqdefault.jpg)](https://www.youtube.com/watch?v=8mfFJlgmgbg)
+
 https://www.youtube.com/watch?v=8mfFJlgmgbg
 
 - [x] update
@@ -316,6 +337,7 @@ https://www.youtube.com/watch?v=8mfFJlgmgbg
 ### MongoDB - API REST completa #3 en Express.js
 
 [![MongoDB - API REST completa #3 en Express.js - Aprendiendo.js - Clase 22](https://img.youtube.com/vi/Pmmsu3CspiM/mqdefault.jpg)](https://www.youtube.com/watch?v=Pmmsu3CspiM)
+
 https://www.youtube.com/watch?v=Pmmsu3CspiM
 
 - [x] Inserción de datos en un array
@@ -326,6 +348,7 @@ https://www.youtube.com/watch?v=Pmmsu3CspiM
 ### MongoDB - API en Express.js + MongoDB + JWT
 
 [![MongoDB - API en Express.js + MongoDB + JWT - Aprendiendo.js - Clase 23](https://img.youtube.com/vi/4Pbr7ebB2Zs/mqdefault.jpg)](https://www.youtube.com/watch?v=4Pbr7ebB2Zs)
+
 https://www.youtube.com/watch?v=4Pbr7ebB2Zs
 
 - [x] JWT middleware con MongoDB
@@ -335,6 +358,7 @@ https://www.youtube.com/watch?v=4Pbr7ebB2Zs
 ### Bases de datos - Redis
 
 [![Redis desde Node.js - Aprendiendo.js - Clase 24](https://img.youtube.com/vi/0o81tybXiiA/mqdefault.jpg)](https://www.youtube.com/watch?v=0o81tybXiiA)
+
 https://www.youtube.com/watch?v=0o81tybXiiA
 
 - [x] Redis: instalación, comandos, sentinels, clusters, módulos
@@ -346,6 +370,7 @@ https://www.youtube.com/watch?v=0o81tybXiiA
 ### Regular Expressions
 
 [![Regular Expressions - Aprendiendo.js - Clase 25](https://img.youtube.com/vi/0MKT0SKFIZ8/mqdefault.jpg)](https://www.youtube.com/watch?v=0MKT0SKFIZ8)
+
 https://www.youtube.com/watch?v=0MKT0SKFIZ8
 
 - [x] `RegExp`
